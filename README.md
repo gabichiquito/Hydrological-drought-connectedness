@@ -18,8 +18,8 @@ The output from hydrological drought extraction and connectedness are stored in 
 
 |       Dataset       |                                Repository Link                                |                   DOI                   |
 |:-------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------:|
-| Hydrological drought extraction    |                 Link                |    https://doi.org/     |
-| Hydrological drought connectedness | link | https://doi.org |
+|Hydrological drought extraction    |  Link| https://doi.org/|
+|Hydrological drought connectedness | link | https://doi.org |
 
 
 ## Reproduce my experiment
@@ -27,5 +27,5 @@ Clone this repository to get access to the notebooks used for Hydrological Droug
 
 |                Script Name                 |                                Description                                 |
 |:------------------------------------------:|:--------------------------------------------------------------------------:|
-|Hydrological_drought_extraction.ipynb.ipynb | Runs the hydrological drought extraction for each catchment                |
+|Hydrological_drought_extraction.ipynb | Runs the hydrological drought extraction for each catchment                |
 |Hydrological_drought_connectedness.ipynb    | Compute the hydrological drought connectedness                             |
