@@ -11,7 +11,7 @@ Gesualdo, G. C. Hydrological drought connectedness (HDC). 2024. Zenodo. https://
 ### Input data
 |       Dataset       |               Repository Link                |               DOI                |
 |:-------------------:|:--------------------------------------------:|:--------------------------------:|
-|   Cabra             | https://data.msdlive.org/records/43sy2-n8y47 | https://doi.org/10.57931/1989373 |
+|   CABra             | https://zenodo.org/records/7612350           | https://doi.org/10.5281/zenodo.7612350 |
 
 ### Output data
 The output from hydrological drought extraction and connectedness are stored in the data repository linked below. The post-processed files (resulting from the analysis scripts itemized below) are stored in the /data directory in this meta-repository.
@@ -23,7 +23,7 @@ The output from hydrological drought extraction and connectedness are stored in 
 
 
 ## Reproduce my experiment
-Clone this repository to get access to the notebooks used for Hydrological Drought Extraction and Connectedness. You'll also need to download the input files in <Put the path here>. Once you have the input dataset downloaded you can use the following notebooks to reproduce the analysis. For the Hydrological Drought Extraction, you should adjust the <put the name>. 
+Clone this repository to get access to the notebooks used for Hydrological Drought Extraction and Connectedness. You'll also need to download the input files in <Data/Catchments_dataset_mm_day/> for hydrological drought extraction and the <Data/All_info.csv> for the hydrological drought connectedness computation. Once you have the input dataset downloaded you can use the following notebooks to reproduce the analysis. For the Hydrological Drought Extraction, you should adjust the function variables <em>moving_window</em> in number of days, <em>thresh_value</em: in flow percentile and <em>min_dur</em>, the drought minimal duration in days.  
 
 |                Script Name                 |                                Description                                 |
 |:------------------------------------------:|:--------------------------------------------------------------------------:|
