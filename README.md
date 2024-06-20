@@ -4,26 +4,6 @@
 # Hydrological drought connectedness (HDC)
 'HDC' is a GitHub repository that contains instructions to reproduce results from the "Spatially Compounding Drought Events in Brazil" which is under review in the Water Resources Research journal.
 
-{::comment}
-[comment]# lastname-etal_year_journal
-
-[comment]**your Paper Title here (once published, include a link to the text)**
-
-[comment]First Last<sup>1\*</sup>, First Last<sup>1</sup>,  and First Last<sup>1, 2</sup>
-
-[comment]<sup>1 </sup> afiliation.
-
-[comment]<sup>2 </sup> afiliation
-
-[comment]\* corresponding author:  email@myorg.gov
-
-[comment]## Abstract
-[comment]_abstract here_
-
-[comment]## Journal reference
-[comment]_journal reference_
-{:/comment}
-
 ## Code reference
 Gesualdo, G. C. Hydrological drought connectedness (HDC). 2024. Zenodo. https://doi.org/10.5072/zenodo.72713
 
@@ -49,13 +29,3 @@ Clone this repository to get access to the notebooks used for Hydrological Droug
 |:------------------------------------------:|:--------------------------------------------------------------------------:|
 |Hydrological_drought_extraction.ipynb.ipynb | Runs the hydrological drought extraction for each catchment                |
 |Hydrological_drought_connectedness.ipynb    | Compute the hydrological drought connectedness                             |
-
-{::comment}
-[comment]## Reproduce my figures
-[comment]Use the following notebooks to reproduce the main and supplementary figures used in this publication.
-
-[comment]| Figure Numbers |                Script Name                 |                                  Description                                   | 
-[comment]|:--------------:|:------------------------------------------:|:----------------------------------------------------[comment]--------------------------:|
-[comment]|       2        |        difference_calculation.ipynb        |             Shows how the mean and peak differences [comment]are calculated             |
-[comment]|       3        | interconnection_time_series_analysis.ipynb |   Analyzes the time series of annual total and peak [comment]loads by interconnection   |
- {:/comment}
