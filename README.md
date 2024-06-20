@@ -23,7 +23,7 @@ The output from hydrological drought extraction and connectedness are stored in 
 
 
 ## Reproduce my experiment
-Clone this repository to get access to the notebooks used for Hydrological Drought Extraction and Connectedness. You'll also need to download the input files in <Data/Catchments_dataset_mm_day/> for hydrological drought extraction and the <Data/All_info.csv> for the hydrological drought connectedness computation. Once you have the input dataset downloaded you can use the following notebooks to reproduce the analysis. For the Hydrological Drought Extraction, you should adjust the function variables <em>moving_window</em> in number of days, <em>thresh_value</em: in flow percentile and <em>min_dur</em>, the drought minimal duration in days.  
+Clone this repository to get access to the notebooks used for Hydrological Drought Extraction and Connectedness. You'll also need to download the input files in <Data/Catchments_dataset_mm_day/> for hydrological drought extraction and the <Data/All_info.csv> for the hydrological drought connectedness computation. Once you have the input dataset downloaded you can use the following notebooks to reproduce the analysis. For the Hydrological Drought Extraction, you should adjust the function variables <em>moving_window</em> in number of days, <em>thresh_value</em> in flow percentile and <em>min_dur</em>, the drought minimal duration in days.  
 
 |                Script Name                 |                                Description                                 |
 |:------------------------------------------:|:--------------------------------------------------------------------------:|
