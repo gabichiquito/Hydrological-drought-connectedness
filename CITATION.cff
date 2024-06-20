@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Gesualdo"
+    given-names: "Gabriela C."
+    orcid: "https://orcid.org/0000-0001-6589-3397"
+title: "Hydrological drought connectedness - HDC"
+repository-code: "https://github.com/gabichiquito/Hydrological-drought-connectedness"
+doi: 10.5072/zenodo.72712
+url: https://github.com/gabichiquito/Hydrological-drought-connectedness
