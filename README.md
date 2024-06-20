@@ -1,8 +1,10 @@
+
 [![DOI](https://sandbox.zenodo.org/badge/598627946.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.72712)
 
-#Hydrological drought connectedness - HDC
+# Hydrological drought connectedness (HDC)
 'HDC' is a GitHub repository that contains instructions to reproduce results from the "Spatially Compounding Drought Events in Brazil" which is under review in the Water Resources Research journal.
 
+{::comment}
 [comment]# lastname-etal_year_journal
 
 [comment]**your Paper Title here (once published, include a link to the text)**
@@ -20,6 +22,7 @@
 
 [comment]## Journal reference
 [comment]_journal reference_
+{:/comment}
 
 ## Code reference
 Gesualdo, G. C. Hydrological drought connectedness (HDC). 2024. Zenodo. https://doi.org/10.5072/zenodo.72713
@@ -47,7 +50,7 @@ Clone this repository to get access to the notebooks used for Hydrological Droug
 |Hydrological_drought_extraction.ipynb.ipynb | Runs the hydrological drought extraction for each catchment                |
 |Hydrological_drought_connectedness.ipynb    | Compute the hydrological drought connectedness                             |
 
-
+{::comment}
 [comment]## Reproduce my figures
 [comment]Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
@@ -55,4 +58,4 @@ Clone this repository to get access to the notebooks used for Hydrological Droug
 [comment]|:--------------:|:------------------------------------------:|:----------------------------------------------------[comment]--------------------------:|
 [comment]|       2        |        difference_calculation.ipynb        |             Shows how the mean and peak differences [comment]are calculated             |
 [comment]|       3        | interconnection_time_series_analysis.ipynb |   Analyzes the time series of annual total and peak [comment]loads by interconnection   |
- 
+ {:/comment}
