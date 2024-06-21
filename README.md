@@ -15,7 +15,7 @@ Gesualdo, G. C. Hydrological drought connectedness (HDC). 2024. Zenodo. https://
 |  Modify input data            |   https://sandbox.zenodo.org/records/73481       | https://doi.org/10.5072/zenodo.73481|
 
 ### Output data
-The output from hydrological drought extraction and connectedness are stored in the data repository linked below. The post-processed files (resulting from the analysis scripts itemized below) are stored in the /data directory in this meta-repository.
+The output from hydrological drought extraction and connectedness are stored in the data repository linked below.
 
 |       Dataset       |                                Repository Link                                |                   DOI                   |
 |:-------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------:|
