@@ -11,15 +11,16 @@ Gesualdo, G. C. Hydrological drought connectedness (HDC). 2024. Zenodo. https://
 ### Input data
 |       Dataset       |               Repository Link                |               DOI                |
 |:-------------------:|:--------------------------------------------:|:--------------------------------:|
-|   CABra             | https://zenodo.org/records/7612350           | https://doi.org/10.5281/zenodo.7612350 |
+|  Original dataset - CABra             | [https://zenodo.org/records/7612350  ](https://zenodo.org/records/7612350)         | [https://doi.org/10.5281/zenodo.7612350 ](https://doi.org/10.5281/zenodo.7612350)|
+|  Modify input data            |   https://sandbox.zenodo.org/records/73481       | https://doi.org/10.5072/zenodo.73481|
 
 ### Output data
 The output from hydrological drought extraction and connectedness are stored in the data repository linked below. The post-processed files (resulting from the analysis scripts itemized below) are stored in the /data directory in this meta-repository.
 
 |       Dataset       |                                Repository Link                                |                   DOI                   |
 |:-------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------:|
-|Hydrological drought extraction    |  Link| https://doi.org/|
-|Hydrological drought connectedness | link | https://doi.org |
+|Hydrological drought extraction    |  [Link](https://sandbox.zenodo.org/records/73481)| [https://doi.org](https://doi.org/10.5072/zenodo.73481)|
+|Hydrological drought connectedness | [link](https://sandbox.zenodo.org/records/73481) | [https://doi.org](https://doi.org/10.5072/zenodo.73481) |
 
 
 ## Reproduce my experiment
