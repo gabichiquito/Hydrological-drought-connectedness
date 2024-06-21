@@ -1,4 +1,0 @@
-This files are the input to the codes:
--All_info.csv is the input to the Hydrological drought connectedness code
--Cabra_attributes and Catchments_dataset_mm_per_day are the inputs to the Hydrological drought extraction code
-    -In the Catchments_dataset_mm_per_day there are examples of catchemnt dataset.
