@@ -1,5 +1,5 @@
 
-[![DOI](https://sandbox.zenodo.org/badge/598627946.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.72712)]
+[![DOI](https://sandbox.zenodo.org/badge/598627946.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.72712)
 
 # Hydrological drought connectedness (HDC)
 'HDC' is a GitHub repository that contains instructions to reproduce results from the "Spatially Compounding Drought Events in Brazil" which is under review in the Water Resources Research journal.
@@ -11,7 +11,7 @@ Gesualdo, G. C. & Benso, M. Hydrological drought connectedness (HDC). 2024. Zeno
 ### Input data
 |       Dataset       |               Repository Link                |               DOI                |
 |:-------------------:|:--------------------------------------------:|:--------------------------------:|
-|  Original dataset - CABra             | [https://zenodo.org/records/7612350  ](https://zenodo.org/records/7612350)         | [https://doi.org/10.5281/zenodo.7612350 ](https://doi.org/10.5281/zenodo.7612350)|
+|  Original dataset - CABra             | [Link](https://zenodo.org/records/7612350)         | [https://doi.org/10.5281/zenodo.7612350 ](https://doi.org/10.5281/zenodo.7612350)|
 |  Modify input data            |   https://sandbox.zenodo.org/records/73481       | https://doi.org/10.5072/zenodo.73481|
 
 ### Output data
@@ -19,8 +19,8 @@ The output from hydrological drought extraction and connectedness are stored in 
 
 |       Dataset       |                                Repository Link                                |                   DOI                   |
 |:-------------------:|:-----------------------------------------------------------------------------:|:---------------------------------------:|
-|Hydrological drought extraction    |  [Link](https://sandbox.zenodo.org/records/73481)| [https://doi.org](https://doi.org/10.5072/zenodo.73481)|
-|Hydrological drought connectedness | [link](https://sandbox.zenodo.org/records/73481) | [https://doi.org](https://doi.org/10.5072/zenodo.73481) |
+|Hydrological drought extraction    |  [Link](https://sandbox.zenodo.org/doi/10.5072/zenodo.72712)| [https://doi.org/10.5072/zenodo.72712](https://doi.org/10.5072/zenodo.72712)|
+|Hydrological drought connectedness | [link](https://sandbox.zenodo.org/doi/10.5072/zenodo.72712) | [https://doi.org/10.5072/zenodo.72712](https://doi.org/10.5072/zenodo.72712) |
 
 
 ## Reproduce my experiment
