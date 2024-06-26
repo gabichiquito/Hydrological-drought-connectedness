@@ -12,7 +12,7 @@ Gesualdo, G. C. & Benso, M. Hydrological drought connectedness (HDC). 2024. Zeno
 |       Dataset       |               Repository Link                |               DOI                |
 |:-------------------:|:--------------------------------------------:|:--------------------------------:|
 |  Original dataset - CABra             | [Link](https://zenodo.org/records/7612350)         | [https://doi.org/10.5281/zenodo.7612350 ](https://doi.org/10.5281/zenodo.7612350)|
-|  Modify input data            |   https://sandbox.zenodo.org/records/73481       | https://doi.org/10.5072/zenodo.73481|
+|  Modify input data            |   [Link](https://sandbox.zenodo.org/records/73481)       | https://doi.org/10.5072/zenodo.73481|
 
 ### Output data
 The output from hydrological drought extraction and connectedness are stored in the data repository linked below.
