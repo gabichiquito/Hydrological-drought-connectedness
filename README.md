@@ -2,7 +2,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14036013.svg)](https://doi.org/10.5281/zenodo.14036013)
 
 # Hydrological drought connectedness (HDC)
-'HDC' is a GitHub repository containing instructions to reproduce results from the "Spatially Compounding Drought Events in Brazil" accepted for publication in the Water Resources Research journal.
+'HDC' is a GitHub repository containing instructions to reproduce results from the "Spatially Compounding Drought Events in Brazil" published in the Water Resources Research Journal - Gesualdo et al., (2024).
+
+## Publication reference
+Gesualdo, G. C., Benso, M. R., Mendiondo, E. M., & Brunner, M. I. (2024). Spatially compounding drought events in Brazil. Water Resources Research, 60, e2023WR036629.[https://doi.org/10.1029/2023WR036629](https://doi.org/10.1029/2023WR036629)
 
 ## Code reference
 Gesualdo, G., Benso, M., Kobayashi, A., & Zamboni, P. (2024). gabichiquito/Hydrological-drought-connectedness: v1.0. Zenodo. [https://doi.org/10.5072/zenodo.78438](https://doi.org/10.5281/zenodo.14036013)
